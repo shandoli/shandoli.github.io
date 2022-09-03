@@ -1,0 +1,10 @@
+body{
+	font-size: 120%;
+	font-family: Helvetica;
+	padding: 10px;
+	max-width: 1000px;
+	margin: 5px auto;
+}
+img{
+	max-width:100%;
+}
